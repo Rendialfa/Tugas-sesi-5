@@ -1,0 +1,97 @@
+#(NO1)a = 1
+
+#max = 6
+
+#while (a < max):
+
+    #print(a, end=". Aku cinta indonesia \n")
+
+    #a += 2
+
+    
+
+#(NO2)a = 2
+
+#b = 2
+
+#for i in range(6):
+
+    #print(a, end=" ")
+
+    #a += b
+
+    #b += 1
+
+    
+
+
+
+
+
+#(NO3)a = 1
+
+#b = 1
+
+#c = 1
+
+#for i in range(3):
+
+#    print (a, "x", b, "=", c)
+
+#    a *= 1
+
+#    b +=1
+
+#    c = a*b
+
+    
+
+#(NO4)a = 7
+
+#b = 6
+
+#c = 42
+
+#for i in range(5):
+
+#    print (a, "x", b, "=", c)
+
+#    a *= 1
+
+#    b +=1
+
+#    c = a*b
+
+
+
+#(NO5)for i in range(3):
+
+    #print(" **** ")
+
+    
+
+#(NO6)for i in range(1):
+
+    #print(" 1111")
+
+    #print(" 2222")
+
+    #print(" 3333")
+
+    
+
+#(NO7)a = 1
+
+#b = 1
+
+#c = 0
+
+#for i in range(10):
+
+    #print(a, end=" ")
+
+    #c = a+b
+
+    #a = b
+
+    #b = c
